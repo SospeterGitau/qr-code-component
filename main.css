@@ -1,6 +1,6 @@
 @import url(https://fonts.google.com/specimen/Outfit);
 
-body {
+.card-title {
   background: #fff;
   font-family: "Outfit", sans-serif;
 }
