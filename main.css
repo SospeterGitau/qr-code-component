@@ -23,7 +23,7 @@ body {
   background-color: hsl(212, 45%, 89%);
 }
 :root {
-  --padding-x: 5%;
+  --padding-x: 3%;
 }
 .card-title {
   padding-left: var(--padding-x);
