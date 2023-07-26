@@ -5,6 +5,12 @@ h5 {
   background: #fff;
   font-family: "Outfit", sans-serif;
 }
+h1 {
+  font-size: 2rem;
+}
+h5 {
+  font-size: 1.2rem;
+}
 .attribution {
   font-size: 0.6875;
   text-align: center;
@@ -15,7 +21,10 @@ h5 {
 body {
   background-color: hsl(212, 45%, 89%);
 }
+:root {
+  --padding-x: 5%;
+}
 .card-title {
-  padding-left: 5%;
-  padding-right: 5%;
+  padding-left: var(--padding-x);
+  padding-right: var(--padding-x);
 }
