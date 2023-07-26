@@ -2,14 +2,15 @@
 
 h1,
 h5 {
-  background: #fff;
   font-family: "Outfit", sans-serif;
 }
 h1 {
   font-size: 2rem;
+  font-weight: 700;
 }
 h5 {
   font-size: 1.2rem;
+  font-weight: 400;
 }
 .attribution {
   font-size: 0.6875;
