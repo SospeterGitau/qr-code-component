@@ -6,9 +6,16 @@ h5 {
   font-family: "Outfit", sans-serif;
 }
 .attribution {
-  font-size: 11px;
+  font-size: 0.6875;
   text-align: center;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+.card-title {
+  padding-left: 5%;
+  padding-right: 5%;
 }
