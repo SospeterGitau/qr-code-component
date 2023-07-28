@@ -16,7 +16,7 @@ body {
   background-color: hsl(212, 45%, 89%);
 }
 .card {
-  max-width: 29rem;
+  max-width: 25rem;
   margin: 0 auto;
 }
 .card-img {
