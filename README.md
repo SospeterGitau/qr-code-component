@@ -35,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+In this exercise I mostly focused on learning Bootstrap and how to use it to make my work easier. I learnt how to use the Bootstrap grid system to layout my page. I also learnt how to use the Bootstrap spacing utilities to add spacing to my page.
 
 ```html
 <div class="container-fluid">
